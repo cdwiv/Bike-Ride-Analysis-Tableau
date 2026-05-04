@@ -24,8 +24,8 @@ https://public.tableau.com/views/LondonBikeRides-MovingAverageandHeatmapProject/
 
 4. Sheet Interactivity: Used "Drag and Hold" selection tools to highlight specific data points across multiple views.
 
-**Data Source**
-The dataset used for this analysis includes weather-related variables and bike-sharing counts from the London area. It covers timeframes from early 2015 through early 2017.
+**Kaggle Dataset Source**
+https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset 
 
 **Screenshots**
 

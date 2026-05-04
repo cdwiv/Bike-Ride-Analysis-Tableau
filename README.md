@@ -32,6 +32,9 @@ The dataset used for this analysis includes weather-related variables and bike-s
 <img width="2823" height="1428" alt="image" src="https://github.com/user-attachments/assets/88a66fc1-5a8b-4358-b2c3-369c92cc28cf" />
 
 
+
+
+
 <img width="2829" height="1438" alt="image" src="https://github.com/user-attachments/assets/fc0fac7e-cac5-4641-944b-eae77332949f" />
 
 
